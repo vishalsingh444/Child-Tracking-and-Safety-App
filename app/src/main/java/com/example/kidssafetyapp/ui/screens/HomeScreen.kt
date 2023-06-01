@@ -25,6 +25,8 @@ import com.example.kidssafetyapp.ui.components.CardComponent
 import com.example.kidssafetyapp.ui.components.CardComponentWithText
 import com.example.kidssafetyapp.ui.components.KidsSafetyTopAppBar
 import com.example.kidssafetyapp.R
+import com.example.kidssafetyapp.notification.AlertNotificationService
+
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable
 fun KidsSafetyApp(viewModel: AppViewModel){
