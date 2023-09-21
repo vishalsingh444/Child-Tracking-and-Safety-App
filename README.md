@@ -13,7 +13,6 @@ Kids Safety and Tracking App is a mobile application that focuses on ensuring th
 - Android Studio
 - Kotlin
 - MVVM architecture
-- Room database for local storage
 - Firebase Realtime Database for storing and updating data
 - Firebase Storage for secure image uploads
 - Jetpack Compose for modern UI development
